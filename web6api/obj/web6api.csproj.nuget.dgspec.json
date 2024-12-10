@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\KPI\\3 semestr\\web\\Lab 6\\Нова папка (2)\\Нова папка (2)\\web6api\\web6api\\web6api.csproj": {}
+    "c:\\KPI\\3 semestr\\web\\Lab 6\\Нова папка (2)\\Нова папка (2)\\web6api\\web6api\\web6api.csproj": {}
   },
   "projects": {
-    "C:\\KPI\\3 semestr\\web\\Lab 6\\Нова папка (2)\\Нова папка (2)\\web6api\\web6api\\web6api.csproj": {
+    "c:\\KPI\\3 semestr\\web\\Lab 6\\Нова папка (2)\\Нова папка (2)\\web6api\\web6api\\web6api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\KPI\\3 semestr\\web\\Lab 6\\Нова папка (2)\\Нова папка (2)\\web6api\\web6api\\web6api.csproj",
+        "projectUniqueName": "c:\\KPI\\3 semestr\\web\\Lab 6\\Нова папка (2)\\Нова папка (2)\\web6api\\web6api\\web6api.csproj",
         "projectName": "web6api",
-        "projectPath": "C:\\KPI\\3 semestr\\web\\Lab 6\\Нова папка (2)\\Нова папка (2)\\web6api\\web6api\\web6api.csproj",
+        "projectPath": "c:\\KPI\\3 semestr\\web\\Lab 6\\Нова папка (2)\\Нова папка (2)\\web6api\\web6api\\web6api.csproj",
         "packagesPath": "C:\\Users\\vital\\.nuget\\packages\\",
-        "outputPath": "C:\\KPI\\3 semestr\\web\\Lab 6\\Нова папка (2)\\Нова папка (2)\\web6api\\web6api\\obj\\",
+        "outputPath": "c:\\KPI\\3 semestr\\web\\Lab 6\\Нова папка (2)\\Нова папка (2)\\web6api\\web6api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vital\\AppData\\Roaming\\NuGet\\NuGet.Config"

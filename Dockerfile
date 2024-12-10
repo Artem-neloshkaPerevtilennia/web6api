@@ -1,13 +1,10 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /source
 
-COPY *.sln .
-COPY web6api/*.csproj ./web6api/
-RUN dotnet restore
+COPY . .
 
-COPY web6api/. ./web6api/
 WORKDIR /source/web6api
-RUN dotnet publish -c release -o /app --no-restore
+RUN dotnet publish -c release -o /app
 
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app

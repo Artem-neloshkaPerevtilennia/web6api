@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("web6api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d574f9ea7e0c3bd4d9c24f4b9a3f83458e03f840")]
 [assembly: System.Reflection.AssemblyProductAttribute("web6api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("web6api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
